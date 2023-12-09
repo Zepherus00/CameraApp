@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="size_0">0dp</dimen>
+    <dimen name="size_88">88dp</dimen>
+    <dimen name="size_120">120dp</dimen>
+</resources>

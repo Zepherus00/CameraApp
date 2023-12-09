@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="btn_take_photo">Take photo</string>
+    <string name="info_permission_not_granted">Permission is not granted</string>
+    <string name="info_photo_saved">Photo saved on:</string>
+    <string name="info_photo_failed">Photo failed:</string>
+</resources>
